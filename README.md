@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu W.</h1>
 <h3 align="center">Computer Science Graduate with SWE, cyber and OSINT skills.</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kav-sw19&show_icons=true&locale=en&layout=compact" alt="kav-sw19" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kav-sw19&show_icons=true&locale=en&layout=compact" alt="kav-sw19" />
 
 - 👨‍💻 All of my projects are available at [kavsw.com](kavsw.com)
 
