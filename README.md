@@ -3,7 +3,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kav-sw19&show_icons=true&locale=en&layout=compact" alt="kav-sw19" />
 
-- 👨‍💻 All of my projects are available at [kavsw.com](www.kavsw.com)
+- 👨‍💻 All of my projects are available at [kavsw.com](http://www.kavsw.com)
 
 - 📫 How to reach me **kav.sw19@gmail.com**
 
