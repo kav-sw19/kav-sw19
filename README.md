@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/neofetch-light.svg">
-    <img alt="neofetch for kav: KavOS, Shropshire UK, Python, TypeScript, Rust and SQL, into LLM automation, data pipelines and agent tooling, shipping whosup, KavOS and sundial" src="assets/neofetch-dark.svg" width="100%">
+    <img alt="neofetch for kav: KavOS, Shropshire UK, Python, TypeScript, Rust and SQL, into software architecture, technical solutions and web design, shipping whosup, KavOS and sundial" src="assets/neofetch-dark.svg" width="100%">
   </picture>
 </a>
 
