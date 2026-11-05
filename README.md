@@ -15,29 +15,7 @@ $ ls -l ~/projects
 | **[whosup](https://github.com/kav-sw19/whosup)** | Rust | `top` for your coding agents: every session you have running, what each one is doing, and whether it needs you.<br>`brew install kav-sw19/tap/whosup` |
 | **[KavOS](https://github.com/kav-sw19/kav-portfolio)** | TypeScript | A portfolio that boots like an old PC: a terminal, a Win95 desktop and a LaTeX-style CV. **[Boot it ↗](https://kav-portfolio-chi.vercel.app)** |
 | **[sundial](https://github.com/kav-sw19/sundial)** | JavaScript | One honest photo a day: a one-shot-a-day camera PWA that seals your year into a film. |
-| **[riff](https://github.com/kav-sw19/riff)** | JavaScript | A desktop music player. |
-| **[vitrine](https://github.com/kav-sw19/vitrine)** | Obj-C | Liquid Glass and Apple Music touches for the Spotify iOS app (a GPL-3.0 fork). |
-
-<!-- ACTIVITY:START -->
-```console
-$ tail -n 8 ~/activity.log
-2026-11-04  open-sourced kav-portfolio
-2026-10-29  starred xerj-org/xerj
-2026-10-28  opened 3 PRs on rootscripts/riff
-2026-10-28  forked rootscripts/riff
-2026-10-22  starred keenthemes/reui
-2026-10-18  forked My-Name-Is-Jeff/vitrine
-2026-10-15  pushed 9× to whosup
-2026-10-15  open-sourced whosup
-```
-<!-- ACTIVITY:END -->
-
-```console
-$ sudo hire-me
-[sudo] password for recruiter: ********
-✔ permission granted. excellent decision.
-```
 
 **[Portfolio](https://kav-portfolio-chi.vercel.app)** · **[CV](https://kav-portfolio-chi.vercel.app/#plain)** · **[LinkedIn](https://linkedin.com/in/kav.sw19)** · **[kav.sw19@gmail.com](mailto:kav.sw19@gmail.com)**
 
-<sub>The neofetch card is a hand-made SVG and the activity log refreshes itself every day. Try <code>ls -a</code> on <a href="https://kav-portfolio-chi.vercel.app">the portfolio</a>.</sub>
+<sub>The neofetch card is a hand-made SVG. Try <code>ls -a</code> on <a href="https://kav-portfolio-chi.vercel.app">the portfolio</a>.</sub>
