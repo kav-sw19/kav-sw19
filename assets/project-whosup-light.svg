@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="144" viewBox="0 0 860 144" role="img" aria-label="whosup (Rust): top for coding agents: every session, what it's doing, and whether it needs you.">
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:15px;white-space:pre}.fg{fill:#1f3a24}.acc{fill:#13803a;font-weight:700}.dim{fill:#5b7560}</style>
+<rect x=".5" y=".5" width="859" height="143" rx="14" fill="#f7faf5" stroke="#d5e3d3"/>
+<g>
+<text x="34" y="40"><tspan class="dim">~/projects/</tspan><tspan class="acc" style="font-size:19px">whosup</tspan></text>
+<circle cx="775.88" cy="35" r="5.5" fill="#dea584"/>
+<text x="826" y="40" text-anchor="end" class="fg">Rust</text>
+<text x="34" y="76" class="fg">top for coding agents: every session, what it's doing, and whether it needs you.</text>
+<line x1="34" x2="826" y1="92" y2="92" stroke="#d5e3d3"/>
+<text x="34" y="116"><tspan class="dim">$ </tspan><tspan class="fg">brew install kav-sw19/tap/whosup</tspan></text>
+<text x="826" y="116" text-anchor="end" class="acc">view repo ↗</text>
+</g>
+</svg>
