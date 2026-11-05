@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="362" viewBox="0 0 820 362" role="img" aria-label="neofetch for kav: KavOS, Shropshire UK, Python TypeScript Rust SQL, into LLM automation, data pipelines and agent tooling, shipping whosup, KavOS and sundial">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:15px;white-space:pre}
+.fg{fill:#1f3a24}.acc{fill:#13803a;font-weight:700}.dim{fill:#5b7560}
+.type{animation:type .9s steps(8,end) .3s both}@keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+.ln{opacity:0;animation:in .25s ease-out forwards}@keyframes in{to{opacity:1}}
+.cur{animation:blink 1.1s steps(2,jump-none) infinite}@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.type,.ln{animation:none;opacity:1;clip-path:none}.cur{animation:none}}
+</style>
+<rect width="820" height="362" rx="14" fill="#f7faf5" stroke="#d5e3d3"/>
+<g>
+<text x="34" y="42"><tspan class="acc">kav@github</tspan><tspan class="dim">:~$ </tspan><tspan class="fg type">neofetch</tspan></text>
+<text x="34" y="84" class="acc ln" style="animation-delay:1.35s"> _               </text>
+<text x="34" y="105" class="acc ln" style="animation-delay:1.40s">| | ____ ___   __</text>
+<text x="34" y="126" class="acc ln" style="animation-delay:1.45s">| |/ / _` \ \ / /</text>
+<text x="34" y="147" class="acc ln" style="animation-delay:1.50s">|   &lt; (_| |\ V / </text>
+<text x="34" y="168" class="acc ln" style="animation-delay:1.55s">|_|\_\__,_| \_/  </text>
+<text x="250" y="84" class="acc ln" style="animation-delay:1.47s">kav@github</text>
+<text x="250" y="105" class="dim ln" style="animation-delay:1.56s">----------</text>
+<text x="250" y="126" class="ln" style="animation-delay:1.65s"><tspan class="acc">OS</tspan><tspan class="fg">: KavOS 26.6 (boots like an old PC)</tspan></text>
+<text x="250" y="147" class="ln" style="animation-delay:1.74s"><tspan class="acc">Location</tspan><tspan class="fg">: Shropshire, UK</tspan></text>
+<text x="250" y="168" class="ln" style="animation-delay:1.83s"><tspan class="acc">Languages</tspan><tspan class="fg">: Python · TypeScript · Rust · SQL</tspan></text>
+<text x="250" y="189" class="ln" style="animation-delay:1.92s"><tspan class="acc">Into</tspan><tspan class="fg">: LLM automation · data pipelines · agent tooling</tspan></text>
+<text x="250" y="210" class="ln" style="animation-delay:2.01s"><tspan class="acc">Shipping</tspan><tspan class="fg">: whosup · KavOS · sundial</tspan></text>
+<text x="250" y="231" class="ln" style="animation-delay:2.10s"><tspan class="acc">Editor</tspan><tspan class="fg">: whichever one the agent opened</tspan></text>
+<text x="250" y="252" class="ln" style="animation-delay:2.19s"><tspan class="acc">Uptime</tspan><tspan class="fg">: 4 years of shipping code</tspan></text>
+<g class="ln" style="animation-delay:2.28s"><text x="250" y="273"><tspan class="acc">Coffee</tspan><tspan class="fg">: </tspan></text><rect x="322" y="261" width="110" height="14" fill="#13803a" opacity=".85"/><text x="440" y="273" class="fg">100%</text></g>
+<g class="ln" style="animation-delay:2.37s"><rect x="250" y="286" width="28" height="14" fill="#000"/><rect x="278" y="286" width="28" height="14" fill="#c33"/><rect x="306" y="286" width="28" height="14" fill="#3c3"/><rect x="334" y="286" width="28" height="14" fill="#cc3"/><rect x="362" y="286" width="28" height="14" fill="#33c"/><rect x="390" y="286" width="28" height="14" fill="#c3c"/><rect x="418" y="286" width="28" height="14" fill="#3cc"/><rect x="446" y="286" width="28" height="14" fill="#eee"/></g>
+<g class="ln" style="animation-delay:2.50s"><text x="34" y="336"><tspan class="acc">kav@github</tspan><tspan class="dim">:~$ </tspan></text><rect class="cur" x="170" y="323" width="9" height="16" fill="#13803a"/></g>
+</g>
+</svg>
