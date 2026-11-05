@@ -12,11 +12,11 @@ $ ls -l ~/projects
 
 | | project | lang | what it does |
 |---|---|---|---|
-| `drwxr-xr-x` | **[whosup](https://github.com/kav-sw19/whosup)** | Rust | `top` for your coding agents: every session you have running, what each one is doing, and whether it needs you. `brew install kav-sw19/tap/whosup` |
-| `drwxr-xr-x` | **[kav-portfolio](https://github.com/kav-sw19/kav-portfolio)** | TypeScript | KavOS, a portfolio that boots like an old PC: a terminal, a Win95 desktop and a LaTeX-style CV. **[Boot it ↗](https://kav-portfolio-chi.vercel.app)** |
-| `drwxr-xr-x` | **[sundial](https://github.com/kav-sw19/sundial)** | JavaScript | One honest photo a day: a one-shot-a-day camera PWA that seals your year into a film. |
-| `drwxr-xr-x` | **[riff](https://github.com/kav-sw19/riff)** | JavaScript | A desktop music player. |
-| `drwxr-xr-x` | **[vitrine](https://github.com/kav-sw19/vitrine)** | Objective-C | Liquid Glass and Apple Music touches for the Spotify iOS app (a GPL-3.0 fork). |
+| `drwxr‑xr‑x` | **[whosup](https://github.com/kav-sw19/whosup)** | Rust | `top` for your coding agents: every session you have running, what each one is doing, and whether it needs you. `brew install kav-sw19/tap/whosup` |
+| `drwxr‑xr‑x` | **[kav‑portfolio](https://github.com/kav-sw19/kav-portfolio)** | TypeScript | KavOS, a portfolio that boots like an old PC: a terminal, a Win95 desktop and a LaTeX-style CV. **[Boot it ↗](https://kav-portfolio-chi.vercel.app)** |
+| `drwxr‑xr‑x` | **[sundial](https://github.com/kav-sw19/sundial)** | JavaScript | One honest photo a day: a one-shot-a-day camera PWA that seals your year into a film. |
+| `drwxr‑xr‑x` | **[riff](https://github.com/kav-sw19/riff)** | JavaScript | A desktop music player. |
+| `drwxr‑xr‑x` | **[vitrine](https://github.com/kav-sw19/vitrine)** | Objective‑C | Liquid Glass and Apple Music touches for the Spotify iOS app (a GPL-3.0 fork). |
 
 <!-- ACTIVITY:START -->
 ```console
